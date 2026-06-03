@@ -2,4 +2,6 @@
 for the dots 
  that is today date 13/5/2026
  that now today work done
- its today your date 
+ name="Ahmad"
+ age = 21
+ print ("hello,", name)
