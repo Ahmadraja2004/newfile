@@ -5,3 +5,4 @@ for the dots
  name="Ahmad"
  age = 21
  print ("hello,", name)
+ enter your name
