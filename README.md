@@ -6,3 +6,5 @@ for the dots
  age = 21
  print ("hello,", name)
  enter your name
+ for i in range (1 ,6):
+ print ("number:",i)
