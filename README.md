@@ -8,5 +8,5 @@ for the dots
  enter your name
  for i in range (1 ,6):
  print ("number:",i)
- total = sum (numbers)
+ total = the (numbers)
  
