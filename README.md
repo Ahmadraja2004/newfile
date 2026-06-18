@@ -1,3 +1,4 @@
+
 # newfile
 for the dots 
  that is today date 13/5/2026
@@ -10,4 +11,5 @@ for the dots
  print ("number:",i)
  total = the (numbers)
  print ("list:", numbers)
+ Name of list 
  
