@@ -12,5 +12,5 @@ for the dots
  total = the (numbers)
  print ("list:", numbers)
  Name of list 
- for the work 
+ for the number 
  
